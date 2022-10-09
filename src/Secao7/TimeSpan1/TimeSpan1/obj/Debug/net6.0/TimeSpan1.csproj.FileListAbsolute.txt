@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\bin\Debug\net6.0\TimeSpan1.exe
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\bin\Debug\net6.0\TimeSpan1.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\bin\Debug\net6.0\TimeSpan1.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\bin\Debug\net6.0\TimeSpan1.dll
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\bin\Debug\net6.0\TimeSpan1.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\TimeSpan1.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\TimeSpan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\TimeSpan1.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\TimeSpan1.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\TimeSpan1.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\TimeSpan1.dll
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\refint\TimeSpan1.dll
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\TimeSpan1.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\TimeSpan1.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao7\TimeSpan1\TimeSpan1\obj\Debug\net6.0\ref\TimeSpan1.dll

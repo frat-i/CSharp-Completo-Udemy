@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net6.0\ExerciciosPropostos2.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net6.0\ExerciciosPropostos2.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net6.0\ExerciciosPropostos2.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net6.0\ExerciciosPropostos2.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\bin\Debug\net6.0\ExerciciosPropostos2.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ExerciciosPropostos2.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ExerciciosPropostos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ExerciciosPropostos2.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ExerciciosPropostos2.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ExerciciosPropostos2.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ExerciciosPropostos2.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\refint\ExerciciosPropostos2.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ExerciciosPropostos2.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ExerciciosPropostos2.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\ExerciciosPropostos2\ExerciciosPropostos2\obj\Debug\net6.0\ref\ExerciciosPropostos2.dll

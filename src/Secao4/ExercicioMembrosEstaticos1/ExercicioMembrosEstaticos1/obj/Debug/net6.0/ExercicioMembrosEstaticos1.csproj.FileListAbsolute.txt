@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\bin\Debug\net6.0\ExercicioMembrosEstaticos1.exe
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\bin\Debug\net6.0\ExercicioMembrosEstaticos1.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\bin\Debug\net6.0\ExercicioMembrosEstaticos1.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\bin\Debug\net6.0\ExercicioMembrosEstaticos1.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\bin\Debug\net6.0\ExercicioMembrosEstaticos1.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ExercicioMembrosEstaticos1.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ExercicioMembrosEstaticos1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ExercicioMembrosEstaticos1.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ExercicioMembrosEstaticos1.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ExercicioMembrosEstaticos1.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ExercicioMembrosEstaticos1.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\refint\ExercicioMembrosEstaticos1.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ExercicioMembrosEstaticos1.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ExercicioMembrosEstaticos1.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\ExercicioMembrosEstaticos1\ExercicioMembrosEstaticos1\obj\Debug\net6.0\ref\ExercicioMembrosEstaticos1.dll

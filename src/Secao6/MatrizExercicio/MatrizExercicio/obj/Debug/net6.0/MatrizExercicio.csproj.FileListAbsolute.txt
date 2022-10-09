@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\bin\Debug\net6.0\MatrizExercicio.exe
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\bin\Debug\net6.0\MatrizExercicio.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\bin\Debug\net6.0\MatrizExercicio.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\bin\Debug\net6.0\MatrizExercicio.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\bin\Debug\net6.0\MatrizExercicio.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\MatrizExercicio.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\MatrizExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\MatrizExercicio.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\MatrizExercicio.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\MatrizExercicio.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\MatrizExercicio.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\refint\MatrizExercicio.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\MatrizExercicio.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\MatrizExercicio.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizExercicio\MatrizExercicio\obj\Debug\net6.0\ref\MatrizExercicio.dll

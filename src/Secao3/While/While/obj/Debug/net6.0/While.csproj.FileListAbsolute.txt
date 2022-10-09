@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\bin\Debug\net6.0\While.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\bin\Debug\net6.0\While.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\bin\Debug\net6.0\While.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\bin\Debug\net6.0\While.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\bin\Debug\net6.0\While.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\While.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\refint\While.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\While.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\While\While\obj\Debug\net6.0\ref\While.dll

@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.exe
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\bin\Debug\net6.0\ExercicioFixacaoLista.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\refint\ExercicioFixacaoLista.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ExercicioFixacaoLista.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoLista\ExercicioFixacaoLista\obj\Debug\net6.0\ref\ExercicioFixacaoLista.dll

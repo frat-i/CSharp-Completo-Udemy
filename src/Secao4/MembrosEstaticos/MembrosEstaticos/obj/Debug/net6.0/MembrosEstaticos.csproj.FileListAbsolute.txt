@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.exe
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\bin\Debug\net6.0\MembrosEstaticos.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\refint\MembrosEstaticos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\MembrosEstaticos.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\MembrosEstaticos\MembrosEstaticos\obj\Debug\net6.0\ref\MembrosEstaticos.dll

@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\bin\Debug\net6.0\SaidaDados.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\refint\SaidaDados.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\SaidaDados.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\SaidaDados\SaidaDados\obj\Debug\net6.0\ref\SaidaDados.dll

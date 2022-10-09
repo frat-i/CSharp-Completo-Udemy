@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.exe
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\bin\Debug\net6.0\TiposReferenciaValor.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\refint\TiposReferenciaValor.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\TiposReferenciaValor.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\TiposReferenciaValor\TiposReferenciaValor\obj\Debug\net6.0\ref\TiposReferenciaValor.dll

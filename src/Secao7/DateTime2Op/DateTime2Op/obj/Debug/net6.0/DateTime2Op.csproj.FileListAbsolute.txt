@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\bin\Debug\net6.0\DateTime2Op.exe
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\bin\Debug\net6.0\DateTime2Op.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\bin\Debug\net6.0\DateTime2Op.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\bin\Debug\net6.0\DateTime2Op.dll
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\bin\Debug\net6.0\DateTime2Op.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\DateTime2Op.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\DateTime2Op.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\DateTime2Op.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\DateTime2Op.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\DateTime2Op.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\DateTime2Op.dll
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\refint\DateTime2Op.dll
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\DateTime2Op.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\DateTime2Op.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao7\DateTime2Op\DateTime2Op\obj\Debug\net6.0\ref\DateTime2Op.dll

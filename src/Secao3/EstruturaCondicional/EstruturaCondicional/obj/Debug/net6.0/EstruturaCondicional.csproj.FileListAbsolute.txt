@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\bin\Debug\net6.0\EstruturaCondicional.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\refint\EstruturaCondicional.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\EstruturaCondicional.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\EstruturaCondicional\EstruturaCondicional\obj\Debug\net6.0\ref\EstruturaCondicional.dll

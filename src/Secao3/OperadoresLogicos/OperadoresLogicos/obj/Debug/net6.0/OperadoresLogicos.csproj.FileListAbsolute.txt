@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\refint\OperadoresLogicos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresLogicos\OperadoresLogicos\obj\Debug\net6.0\ref\OperadoresLogicos.dll

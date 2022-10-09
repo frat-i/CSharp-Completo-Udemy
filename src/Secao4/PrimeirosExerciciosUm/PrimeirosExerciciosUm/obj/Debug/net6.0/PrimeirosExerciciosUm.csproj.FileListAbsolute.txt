@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\bin\Debug\net6.0\PrimeirosExerciciosUm.exe
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\bin\Debug\net6.0\PrimeirosExerciciosUm.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\bin\Debug\net6.0\PrimeirosExerciciosUm.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\bin\Debug\net6.0\PrimeirosExerciciosUm.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\bin\Debug\net6.0\PrimeirosExerciciosUm.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\PrimeirosExerciciosUm.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\PrimeirosExerciciosUm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\PrimeirosExerciciosUm.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\PrimeirosExerciciosUm.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\PrimeirosExerciciosUm.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\PrimeirosExerciciosUm.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\refint\PrimeirosExerciciosUm.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\PrimeirosExerciciosUm.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\PrimeirosExerciciosUm.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosUm\PrimeirosExerciciosUm\obj\Debug\net6.0\ref\PrimeirosExerciciosUm.dll

@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\bin\Debug\net6.0\Funcoes.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\refint\Funcoes.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\Funcoes.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\Funcoes\Funcoes\obj\Debug\net6.0\ref\Funcoes.dll

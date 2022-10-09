@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net6.0\SegundoProblemaExemplo.exe
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net6.0\SegundoProblemaExemplo.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net6.0\SegundoProblemaExemplo.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net6.0\SegundoProblemaExemplo.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\bin\Debug\net6.0\SegundoProblemaExemplo.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\SegundoProblemaExemplo.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\SegundoProblemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\SegundoProblemaExemplo.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\SegundoProblemaExemplo.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\SegundoProblemaExemplo.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\SegundoProblemaExemplo.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\refint\SegundoProblemaExemplo.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\SegundoProblemaExemplo.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\SegundoProblemaExemplo.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\SegundoProblemaExemplo\SegundoProblemaExemplo\obj\Debug\net6.0\ref\SegundoProblemaExemplo.dll

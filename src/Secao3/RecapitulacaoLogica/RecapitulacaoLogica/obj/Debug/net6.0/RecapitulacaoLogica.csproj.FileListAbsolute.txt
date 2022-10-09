@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\RecapitulacaoLogica.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\RecapitulacaoLogica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\RecapitulacaoLogica.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\RecapitulacaoLogica.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\RecapitulacaoLogica.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\bin\Debug\net6.0\RecapitulacaoLogica.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\bin\Debug\net6.0\RecapitulacaoLogica.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\bin\Debug\net6.0\RecapitulacaoLogica.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\bin\Debug\net6.0\RecapitulacaoLogica.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\bin\Debug\net6.0\RecapitulacaoLogica.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\RecapitulacaoLogica.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\refint\RecapitulacaoLogica.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\RecapitulacaoLogica.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\RecapitulacaoLogica.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\RecapitulacaoLogica\RecapitulacaoLogica\obj\Debug\net6.0\ref\RecapitulacaoLogica.dll

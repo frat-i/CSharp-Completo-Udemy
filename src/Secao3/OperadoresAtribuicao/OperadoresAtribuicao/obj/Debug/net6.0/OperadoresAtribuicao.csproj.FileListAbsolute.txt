@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net6.0\OperadoresAtribuicao.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\refint\OperadoresAtribuicao.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\OperadoresAtribuicao.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net6.0\ref\OperadoresAtribuicao.dll

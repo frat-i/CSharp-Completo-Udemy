@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\bin\Debug\net6.0\MatrizComeco.exe
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\bin\Debug\net6.0\MatrizComeco.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\bin\Debug\net6.0\MatrizComeco.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\bin\Debug\net6.0\MatrizComeco.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\bin\Debug\net6.0\MatrizComeco.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\MatrizComeco.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\MatrizComeco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\MatrizComeco.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\MatrizComeco.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\MatrizComeco.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\MatrizComeco.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\refint\MatrizComeco.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\MatrizComeco.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\MatrizComeco.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\MatrizComeco\MatrizComeco\obj\Debug\net6.0\ref\MatrizComeco.dll

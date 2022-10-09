@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\bin\Debug\net6.0\Params.exe
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\bin\Debug\net6.0\Params.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\bin\Debug\net6.0\Params.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\bin\Debug\net6.0\Params.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\bin\Debug\net6.0\Params.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\Params.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\Params.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\Params.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\Params.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\Params.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\refint\Params.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\Params.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\Params.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\Params\Params\obj\Debug\net6.0\ref\Params.dll

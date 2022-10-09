@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\bin\Debug\net6.0\LacoForeach.exe
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\bin\Debug\net6.0\LacoForeach.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\bin\Debug\net6.0\LacoForeach.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\bin\Debug\net6.0\LacoForeach.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\bin\Debug\net6.0\LacoForeach.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\LacoForeach.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\LacoForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\LacoForeach.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\LacoForeach.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\LacoForeach.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\LacoForeach.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\refint\LacoForeach.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\LacoForeach.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\LacoForeach.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\LacoForeach\LacoForeach\obj\Debug\net6.0\ref\LacoForeach.dll

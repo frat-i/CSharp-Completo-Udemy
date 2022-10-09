@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.exe
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\bin\Debug\net6.0\ExercicioFixacaoVetor.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\refint\ExercicioFixacaoVetor.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ExercicioFixacaoVetor.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\ExercicioFixacaoVetor\ExercicioFixacaoVetor\obj\Debug\net6.0\ref\ExercicioFixacaoVetor.dll

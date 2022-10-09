@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\bin\Debug\net6.0\EntradaDados.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\refint\EntradaDados.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\EntradaDados.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\EntradaDados\EntradaDados\obj\Debug\net6.0\ref\EntradaDados.dll

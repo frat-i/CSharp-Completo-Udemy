@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net6.0\ConversaoImplicitaECasting.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net6.0\ConversaoImplicitaECasting.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net6.0\ConversaoImplicitaECasting.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net6.0\ConversaoImplicitaECasting.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net6.0\ConversaoImplicitaECasting.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ConversaoImplicitaECasting.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ConversaoImplicitaECasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ConversaoImplicitaECasting.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ConversaoImplicitaECasting.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ConversaoImplicitaECasting.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ConversaoImplicitaECasting.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\refint\ConversaoImplicitaECasting.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ConversaoImplicitaECasting.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ConversaoImplicitaECasting.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net6.0\ref\ConversaoImplicitaECasting.dll

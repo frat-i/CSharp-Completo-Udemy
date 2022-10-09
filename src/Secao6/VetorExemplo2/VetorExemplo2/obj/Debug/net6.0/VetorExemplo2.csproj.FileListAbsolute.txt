@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.exe
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\bin\Debug\net6.0\VetorExemplo2.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\refint\VetorExemplo2.dll
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\VetorExemplo2.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao6\VetorExemplo2\VetorExemplo2\obj\Debug\net6.0\ref\VetorExemplo2.dll

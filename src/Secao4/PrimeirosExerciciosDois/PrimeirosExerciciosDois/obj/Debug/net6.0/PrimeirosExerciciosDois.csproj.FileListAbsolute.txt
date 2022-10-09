@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\bin\Debug\net6.0\PrimeirosExerciciosDois.exe
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\bin\Debug\net6.0\PrimeirosExerciciosDois.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\bin\Debug\net6.0\PrimeirosExerciciosDois.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\bin\Debug\net6.0\PrimeirosExerciciosDois.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\bin\Debug\net6.0\PrimeirosExerciciosDois.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\PrimeirosExerciciosDois.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\PrimeirosExerciciosDois.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\PrimeirosExerciciosDois.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\PrimeirosExerciciosDois.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\PrimeirosExerciciosDois.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\PrimeirosExerciciosDois.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\refint\PrimeirosExerciciosDois.dll
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\PrimeirosExerciciosDois.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\PrimeirosExerciciosDois.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao4\PrimeirosExerciciosDois\PrimeirosExerciciosDois\obj\Debug\net6.0\ref\PrimeirosExerciciosDois.dll

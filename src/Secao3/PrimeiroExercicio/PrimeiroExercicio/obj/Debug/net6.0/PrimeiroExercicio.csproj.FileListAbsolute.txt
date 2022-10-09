@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\bin\Debug\net6.0\PrimeiroExercicio.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\refint\PrimeiroExercicio.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\PrimeiroExercicio.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\PrimeiroExercicio\PrimeiroExercicio\obj\Debug\net6.0\ref\PrimeiroExercicio.dll

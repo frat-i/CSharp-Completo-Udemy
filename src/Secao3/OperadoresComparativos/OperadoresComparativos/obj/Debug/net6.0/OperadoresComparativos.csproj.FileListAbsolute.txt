@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\refint\OperadoresComparativos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\ref\OperadoresComparativos.dll

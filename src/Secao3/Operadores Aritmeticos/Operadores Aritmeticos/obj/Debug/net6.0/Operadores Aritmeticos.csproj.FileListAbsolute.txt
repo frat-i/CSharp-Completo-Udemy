@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\net6.0\Operadores Aritmeticos.exe
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\net6.0\Operadores Aritmeticos.deps.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\net6.0\Operadores Aritmeticos.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\net6.0\Operadores Aritmeticos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\bin\Debug\net6.0\Operadores Aritmeticos.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\Operadores Aritmeticos.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\Operadores Aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\Operadores Aritmeticos.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\Operadores Aritmeticos.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\Operadores Aritmeticos.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\Operadores Aritmeticos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\refint\Operadores Aritmeticos.dll
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\Operadores Aritmeticos.pdb
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\Operadores Aritmeticos.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\Secao3\Operadores Aritmeticos\Operadores Aritmeticos\obj\Debug\net6.0\ref\Operadores Aritmeticos.dll
