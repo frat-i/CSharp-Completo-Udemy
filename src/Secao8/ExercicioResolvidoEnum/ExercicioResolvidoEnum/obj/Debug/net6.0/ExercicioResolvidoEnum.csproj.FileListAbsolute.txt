@@ -1,0 +1,15 @@
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net6.0\ExercicioResolvidoEnum.exe
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net6.0\ExercicioResolvidoEnum.deps.json
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net6.0\ExercicioResolvidoEnum.runtimeconfig.json
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net6.0\ExercicioResolvidoEnum.dll
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\bin\Debug\net6.0\ExercicioResolvidoEnum.pdb
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ExercicioResolvidoEnum.csproj.AssemblyReference.cache
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ExercicioResolvidoEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ExercicioResolvidoEnum.AssemblyInfoInputs.cache
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ExercicioResolvidoEnum.AssemblyInfo.cs
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ExercicioResolvidoEnum.csproj.CoreCompileInputs.cache
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ExercicioResolvidoEnum.dll
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\refint\ExercicioResolvidoEnum.dll
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ExercicioResolvidoEnum.pdb
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ExercicioResolvidoEnum.genruntimeconfig.cache
+D:\Udemy\C# e .NET\Repositorio\CSharp-Completo-Udemy\src\Secao8\ExercicioResolvidoEnum\ExercicioResolvidoEnum\obj\Debug\net6.0\ref\ExercicioResolvidoEnum.dll
