@@ -24,9 +24,9 @@ namespace DemoHeranca.Entities
             Balance = balance;
         }
 
-        public void WithDraw(double amount)
+        public virtual void WithDraw(double amount) //virtual faz com que o método possa ser sobreescrito
         {
-            Balance -= amount;
+            Balance -= amount + 5.00;
         }
 
         public void Deposit(double amount)
