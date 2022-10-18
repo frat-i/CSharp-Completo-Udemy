@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ExcecoesPersonalizadas.Entities.Exceptions;
 
 namespace ExcecoesPersonalizadas.Entities
 {
@@ -17,11 +18,16 @@ namespace ExcecoesPersonalizadas.Entities
 
         }
 
-        public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
+        public Reservation(int roomnumber, DateTime checkin, DateTime checkout)
         {
-            this.roomNumber = roomNumber;
-            this.checkIn = checkIn;
-            this.checkOut = checkOut;
+            if (checkout <= checkin)
+            {
+                throw new DomainException(" Check-Out date must be after the Check-In date");
+            }
+
+            roomNumber = roomnumber;
+            checkIn = checkin;
+            checkOut = checkout;
         }
 
         public int Duration()
@@ -30,22 +36,20 @@ namespace ExcecoesPersonalizadas.Entities
             return (int)duration.TotalDays;
         }
 
-        public string UpdateDates(DateTime checkin, DateTime checkout)
+        public void UpdateDates(DateTime checkin, DateTime checkout)
         {
             DateTime now = DateTime.Now;
-
             if (checkin < now || checkout < now)
             {
-                return " Reservation dates for update must be future dates";
+                throw new DomainException("Reservation dates for update must be future dates");
             }
             if (checkout <= checkin)
             {
-                return " Check-Out date must be after the Check-In date";
+                throw new DomainException(" Check-Out date must be after the Check-In date");
             }
 
             checkIn = checkin;
             checkOut = checkout;
-            return null;
         }
 
         public override string ToString()
