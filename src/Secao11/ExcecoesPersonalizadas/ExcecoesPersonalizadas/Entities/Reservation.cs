@@ -30,10 +30,22 @@ namespace ExcecoesPersonalizadas.Entities
             return (int)duration.TotalDays;
         }
 
-        public void UpdateDates(DateTime checkin, DateTime checkout)
+        public string UpdateDates(DateTime checkin, DateTime checkout)
         {
+            DateTime now = DateTime.Now;
+
+            if (checkin < now || checkout < now)
+            {
+                return " Reservation dates for update must be future dates";
+            }
+            if (checkout <= checkin)
+            {
+                return " Check-Out date must be after the Check-In date";
+            }
+
             checkIn = checkin;
             checkOut = checkout;
+            return null;
         }
 
         public override string ToString()
