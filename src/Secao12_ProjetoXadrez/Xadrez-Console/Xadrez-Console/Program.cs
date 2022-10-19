@@ -1,6 +1,7 @@
 ﻿using System;
 using XadrezTabuleiro.Entities;
 using XadrezTabuleiro.Entities.Enums;
+using Xadrez_Console.Presentation.Entities;
 
 namespace Xadrez_Console;
 
@@ -10,6 +11,10 @@ class Program
     {
 
         Tabuleiro tab = new(8, 8);
+
+        Tela.ImprimirTabuleiro(tab);
+
+
 
     }
 }

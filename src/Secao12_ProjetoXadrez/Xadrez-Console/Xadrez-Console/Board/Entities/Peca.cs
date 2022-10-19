@@ -22,5 +22,7 @@ namespace XadrezTabuleiro.Entities
             Tabuleiro = tabuleiro;
             QuantidadeMovimentos = 0;
         }
+
+
     }
 }
