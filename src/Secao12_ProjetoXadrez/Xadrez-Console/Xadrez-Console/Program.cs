@@ -23,14 +23,11 @@ class Program
                 try
                 {
                     Console.Clear();
-                    Tela.ImprimirTabuleiro(partida.Tabuleiro);
-                    Console.WriteLine();
-                    Console.WriteLine($"Turno: {partida.Turno}");
-                    Console.WriteLine($"Aguardando jogada: {partida.JogadorAtual}");
+                    Tela.ImprimirPartida(partida);
 
 
                     Console.WriteLine();
-                    Console.Write("Digite Origem: ");
+                    Console.Write("Origem: ");
                     Posicao origem = Tela.LerPosicaoXadrex().ToPosicao();
                     partida.ValidarPosicaoOrigem(origem);
 
@@ -41,7 +38,7 @@ class Program
                     Tela.ImprimirTabuleiro(partida.Tabuleiro, posicoesPossiveis);
 
                     Console.WriteLine();
-                    Console.Write("Digite destino: ");
+                    Console.Write("Destino: ");
                     Posicao destino = Tela.LerPosicaoXadrex().ToPosicao();
                     partida.ValidarPosicaoDestino(origem, destino);
 
