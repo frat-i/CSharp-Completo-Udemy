@@ -4,6 +4,7 @@ using XadrezTabuleiro.Entities.Enums;
 using Xadrez_Console.Presentation.Entities;
 using Xadrez_Console.Chess.Entities;
 using Xadrez_Console.Board.Entities.Exceptions;
+using Xadrez_Console.Chess.Entities;
 
 
 namespace Xadrez_Console;
@@ -15,17 +16,24 @@ class Program
 
         try
         {
-            Tabuleiro tab = new(8, 8);
+            PartidaXadrez partida = new();
 
-            tab.ColocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
-            tab.ColocarPeca(new Rei(tab, Cor.Preta), new Posicao(5, 2));
-            tab.ColocarPeca(new Torre(tab, Cor.Preta), new Posicao(4, 7));
+            while (!partida.Terminada)
+            {
+                Console.Clear();
+                Tela.ImprimirTabuleiro(partida.Tabuleiro);
 
-            tab.ColocarPeca(new Torre(tab, Cor.Branca), new Posicao(2, 1));
-            tab.ColocarPeca(new Rei(tab, Cor.Branca), new Posicao(3, 1));
-            tab.ColocarPeca(new Torre(tab, Cor.Branca), new Posicao(6, 5));
+                Console.WriteLine();
+                Console.Write("Digite Origem: ");
+                Posicao origem = Tela.LerPosicaoXadrex().ToPosicao(); 
+                Console.WriteLine("Digite destino: ");
+                Posicao destino = Tela.LerPosicaoXadrex().ToPosicao();
 
-            Tela.ImprimirTabuleiro(tab);
+                partida.ExecutaMovimento(origem, destino);
+            }
+
+
+            
         }
         catch (TabuleiroException e)
         {

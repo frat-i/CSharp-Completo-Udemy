@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using XadrezTabuleiro.Entities;
 using XadrezTabuleiro.Entities.Enums;
+using Xadrez_Console.Chess.Entities;
 
 namespace Xadrez_Console.Presentation.Entities
 {
@@ -34,8 +35,14 @@ namespace Xadrez_Console.Presentation.Entities
             Console.WriteLine("  a b c d e f g h");   
         }
 
-
-
+        public static PosicaoXadrez LerPosicaoXadrex()
+        {
+            string s = Console.ReadLine();
+            char coluna = s[0];
+            int linha = int.Parse(s[1] + "");
+            return new PosicaoXadrez(coluna, linha);
+        }
+        
         public static void ImprimirPeca(Peca peca)
         {
             if(peca.Cor == Cor.Branca)

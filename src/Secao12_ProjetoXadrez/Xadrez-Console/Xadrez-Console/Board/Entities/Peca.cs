@@ -23,6 +23,10 @@ namespace XadrezTabuleiro.Entities
             QuantidadeMovimentos = 0;
         }
 
+        public void IncrementarQtdeMovimentos()
+        {
+            QuantidadeMovimentos++;
+        }
     
     }
 }
