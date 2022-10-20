@@ -8,7 +8,7 @@ using XadrezTabuleiro.Entities.Enums;
 
 namespace XadrezTabuleiro.Entities
 {
-    internal class Peca
+    abstract class Peca
     {
         public Posicao Posicao { get; set; }
         public Cor Cor { get; protected set; }
@@ -27,6 +27,9 @@ namespace XadrezTabuleiro.Entities
         {
             QuantidadeMovimentos++;
         }
+
+        public abstract bool[,] MovimentosPossiveis();
+      
     
     }
 }
