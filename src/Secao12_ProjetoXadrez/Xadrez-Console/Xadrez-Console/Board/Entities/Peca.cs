@@ -17,7 +17,6 @@ namespace XadrezTabuleiro.Entities
 
         public Peca(Cor cor, Tabuleiro tabuleiro)
         {
-            Posicao = null;
             Cor = cor;
             Tabuleiro = tabuleiro;
             QuantidadeMovimentos = 0;
@@ -26,6 +25,10 @@ namespace XadrezTabuleiro.Entities
         public void IncrementarQtdeMovimentos()
         {
             QuantidadeMovimentos++;
+        }
+        public void DecrementarQtdeMovimentos()
+        {
+            QuantidadeMovimentos--;
         }
 
         public bool ExisteMovimentoPossiveis()

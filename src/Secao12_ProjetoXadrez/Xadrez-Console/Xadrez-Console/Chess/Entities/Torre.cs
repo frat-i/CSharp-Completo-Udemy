@@ -14,6 +14,8 @@ internal class Torre : Peca
 {
     public Torre(Tabuleiro tabuleiro, Cor cor) : base(cor, tabuleiro) { }
 
+    public override string ToString() => "T";
+
     bool PodeMover(Posicao posicao)
     {
         if (Tabuleiro.PosicaoValida(posicao) is false) return false;
@@ -25,14 +27,14 @@ internal class Torre : Peca
         bool[,] matriz = new bool[Tabuleiro.Linhas, Tabuleiro.Colunas];
 
         // Possíveis posições
-        Posicao pos = new Posicao(0, 0);
+        Posicao pos = new(0, 0);
 
         // acima
         pos.DefinirValores(Posicao!.Linha - 1, Posicao.Coluna);
         while (PodeMover(pos))
         {
             matriz[pos.Linha, pos.Coluna] = true;
-            if (Tabuleiro.Peca(pos) is not null && Tabuleiro.Peca(pos).Cor != this.Cor)
+            if (Tabuleiro.Peca(pos) is not null && Tabuleiro.Peca(pos).Cor != Cor)
                 break;
             pos.Linha -= 1;
         }
@@ -42,7 +44,7 @@ internal class Torre : Peca
         while (PodeMover(pos))
         {
             matriz[pos.Linha, pos.Coluna] = true;
-            if (Tabuleiro.Peca(pos) is not null && Tabuleiro.Peca(pos).Cor != this.Cor)
+            if (Tabuleiro.Peca(pos) is not null && Tabuleiro.Peca(pos).Cor != Cor)
                 break;
             pos.Linha += 1;
         }
@@ -52,7 +54,7 @@ internal class Torre : Peca
         while (PodeMover(pos))
         {
             matriz[pos.Linha, pos.Coluna] = true;
-            if (Tabuleiro.Peca(pos) is not null && Tabuleiro.Peca(pos).Cor != this.Cor)
+            if (Tabuleiro.Peca(pos) is not null && Tabuleiro.Peca(pos).Cor != Cor)
                 break;
             pos.Coluna += 1;
         }
@@ -62,13 +64,11 @@ internal class Torre : Peca
         while (PodeMover(pos))
         {
             matriz[pos.Linha, pos.Coluna] = true;
-            if (Tabuleiro.Peca(pos) is not null && Tabuleiro.Peca(pos).Cor != this.Cor)
+            if (Tabuleiro.Peca(pos) is not null && Tabuleiro.Peca(pos).Cor != Cor)
                 break;
             pos.Coluna -= 1;
         }
 
         return matriz;
     }
-
-    public override string ToString() => "T";
 }
