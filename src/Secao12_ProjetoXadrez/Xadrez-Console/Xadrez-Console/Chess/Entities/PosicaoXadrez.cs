@@ -1,32 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using XadrezTabuleiro.Entities;
+﻿using XadrezTabuleiro.Entities;
 
-namespace Xadrez_Console.Chess.Entities
+namespace Xadrez_Console.Chess.Entities;
+
+internal class PosicaoXadrez
 {
-    internal class PosicaoXadrez
+    public char Coluna { get; set; }
+
+    public int Linha { get; set; }
+
+    public PosicaoXadrez(char coluna, int linha)
     {
-        public char Coluna { get; set; }
+        Coluna = coluna;
+        Linha = linha;
+    }
 
-        public int Linha { get; set; }
+    public Posicao ToPosicao()
+    {
+        return new Posicao(8 - Linha, Coluna - 'a');
+    }
 
-        public PosicaoXadrez(char coluna, int linha)
-        {
-            Coluna = coluna;
-            Linha = linha;
-        }
-
-        public Posicao ToPosicao()
-        {
-            return new Posicao(8 - Linha, Coluna - 'a');
-        }
-
-        public override string ToString()
-        {
-            return "" + Coluna + Linha;
-        }
+    public override string ToString()
+    {
+        return "" + Coluna + Linha;
     }
 }

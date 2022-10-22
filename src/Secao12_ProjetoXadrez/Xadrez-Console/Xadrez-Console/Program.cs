@@ -1,10 +1,7 @@
-﻿using System;
-using XadrezTabuleiro.Entities;
-using XadrezTabuleiro.Entities.Enums;
+﻿using Xadrez_Console.Board.Entities.Exceptions;
+using Xadrez_Console.Chess.Entities;
 using Xadrez_Console.Presentation.Entities;
-using Xadrez_Console.Chess.Entities;
-using Xadrez_Console.Board.Entities.Exceptions;
-using Xadrez_Console.Chess.Entities;
+using XadrezTabuleiro.Entities;
 
 
 namespace Xadrez_Console;
@@ -44,7 +41,7 @@ class Program
 
                     partida.RealizaJogada(origem, destino);
                 }
-                catch(TabuleiroException e)
+                catch (TabuleiroException e)
                 {
                     Console.WriteLine(e.Message);
                     Console.ReadLine();
