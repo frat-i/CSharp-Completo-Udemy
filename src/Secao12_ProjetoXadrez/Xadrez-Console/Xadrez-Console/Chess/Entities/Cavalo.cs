@@ -22,7 +22,7 @@ internal class Cavalo : Peca
 
     public override bool[,] MovimentosPossiveis()
     {
-        bool[,] mat = new bool[Posicao.Linha, Posicao.Coluna];
+        bool[,] mat = new bool[Tabuleiro.Linhas, Tabuleiro.Colunas];
         Posicao pos = new Posicao(0, 0);
 
         pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna - 2);

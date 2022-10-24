@@ -32,7 +32,7 @@ internal class Peao : Peca
     {
         bool[,] matriz = new bool[Tabuleiro.Linhas, Tabuleiro.Colunas];
 
-        Posicao pos = new Posicao(0, 0);
+        Posicao pos = new(0, 0);
 
         if (Cor == Cor.Branca)
         {
@@ -48,6 +48,7 @@ internal class Peao : Peca
             {
                 matriz[pos.Linha, pos.Coluna] = true;
             }
+
             pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna - 1);
             if (Tabuleiro.PosicaoValida(pos) && ExisteInimigo(pos))
             {

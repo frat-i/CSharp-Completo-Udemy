@@ -31,7 +31,7 @@ internal class Bispo : Peca
         pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna - 1);
         while (Tabuleiro.PosicaoValida(pos) && podeMover(pos))
         {
-            mat[Tabuleiro.Linhas, pos.Coluna] = true;
+            mat[pos.Linha, pos.Coluna] = true;
             if (Tabuleiro.Peca(pos) != null && Tabuleiro.Peca(pos).Cor != Cor)
             {
                 break;
@@ -43,7 +43,7 @@ internal class Bispo : Peca
         pos.DefinirValores(Posicao.Linha - 1, Posicao.Coluna + 1);
         while (Tabuleiro.PosicaoValida(pos) && podeMover(pos))
         {
-            mat[Tabuleiro.Linhas, pos.Coluna] = true;
+            mat[pos.Linha, pos.Coluna] = true;
             if (Tabuleiro.Peca(pos) != null && Tabuleiro.Peca(pos).Cor != Cor)
             {
                 break;
@@ -55,7 +55,7 @@ internal class Bispo : Peca
         pos.DefinirValores(Posicao.Linha + 1, Posicao.Coluna + 1);
         while (Tabuleiro.PosicaoValida(pos) && podeMover(pos))
         {
-            mat[Tabuleiro.Linhas, pos.Coluna] = true;
+            mat[pos.Linha, pos.Coluna] = true;
             if (Tabuleiro.Peca(pos) != null && Tabuleiro.Peca(pos).Cor != Cor)
             {
                 break;
@@ -67,7 +67,7 @@ internal class Bispo : Peca
         pos.DefinirValores(Posicao.Linha + 1, Posicao.Coluna - 1);
         while (Tabuleiro.PosicaoValida(pos) && podeMover(pos))
         {
-            mat[Tabuleiro.Linhas, pos.Coluna] = true;
+            mat[pos.Linha, pos.Coluna] = true;
             if (Tabuleiro.Peca(pos) != null && Tabuleiro.Peca(pos).Cor != Cor)
             {
                 break;
