@@ -16,6 +16,7 @@ namespace Xadrez_Console.Chess.Entities
         public HashSet<Peca> Pecas;
         public HashSet<Peca> PecasCapturadas;
         public bool Xeque { get; private set; }
+        public Peca VulneravelEnPassant { get; private set; }
 
         public PartidaXadrez()
         {
@@ -24,6 +25,7 @@ namespace Xadrez_Console.Chess.Entities
             JogadorAtual = Cor.Branca;
             Terminada = false;
             Xeque = false;
+            VulneravelEnPassant = null;
             Pecas = new HashSet<Peca>();
             PecasCapturadas = new HashSet<Peca>();
             ColocarPecas();
@@ -61,6 +63,26 @@ namespace Xadrez_Console.Chess.Entities
                 Tabuleiro.ColocarPeca(T, destinoT);
 
             }
+
+            if (p is Peao)
+            {
+                if (origem.Coluna != destino.Coluna && PecaCapturada == null)
+                {
+                    Posicao posP;
+                    if (p.Cor == Cor.Branca)
+                    {
+                        posP = new Posicao(destino.Linha + 1, destino.Coluna);
+                    }
+                    else
+                    {
+                        posP = new Posicao(destino.Linha - 1, destino.Coluna);
+                    }
+                    PecaCapturada = Tabuleiro.RetirarPeca(posP);
+                    PecasCapturadas.Add(PecaCapturada);
+                }
+            }
+
+
             return PecaCapturada;
         }
 
@@ -95,6 +117,25 @@ namespace Xadrez_Console.Chess.Entities
                 Tabuleiro.ColocarPeca(T, origemT);
 
             }
+
+            if (p is Peao)
+            {
+                if (origem.Coluna != destino.Coluna && pecaCapturada == VulneravelEnPassant)
+                {
+                    Peca peao = Tabuleiro.RetirarPeca(destino);
+                    Posicao posP;
+                    if (p.Cor == Cor.Branca)
+                    {
+                        posP = new Posicao(3, origem.Coluna);
+                    }
+                    else
+                    {
+                        posP = new Posicao(4, origem.Coluna);
+                    }
+                    Tabuleiro.ColocarPeca(peao, posP);
+                }
+            }
+
         }
 
         public void RealizaJogada(Posicao origem, Posicao destino)
@@ -122,6 +163,18 @@ namespace Xadrez_Console.Chess.Entities
             {
                 Turno++;
                 MudaJogador();
+            }
+
+            Peca p = Tabuleiro.Peca(destino);
+
+            // #jogada especial en passant
+            if (p is Peao && (destino.Linha == origem.Linha - 2 || destino.Linha == origem.Linha + 2))
+            {
+                VulneravelEnPassant = p;
+            }
+            else
+            {
+                VulneravelEnPassant = null;
             }
 
         }

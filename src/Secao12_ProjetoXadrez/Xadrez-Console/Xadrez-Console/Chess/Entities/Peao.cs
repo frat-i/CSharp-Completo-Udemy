@@ -60,20 +60,20 @@ internal class Peao : Peca
                 matriz[pos.Linha, pos.Coluna] = true;
             }
 
-            //// #jogadaespecial en passant
-            //if (Posicao.Linha == 3)
-            //{
-            //    Posicao esquerda = new Posicao(Posicao.Linha, Posicao.Coluna - 1);
-            //    if (Tabuleiro.PosicaoValida(esquerda) && ExisteInimigo(esquerda) && Tabuleiro.peca(esquerda) == partida.vulneravelEnPassant)
-            //    {
-            //        matriz[esquerda.Linha - 1, esquerda.Coluna] = true;
-            //    }
-            //    Posicao direita = new Posicao(Posicao.Linha, Posicao.Coluna + 1);
-            //    if (Tabuleiro.PosicaoValida(direita) && ExisteInimigo(direita) && Tabuleiro.peca(direita) == partida.vulneravelEnPassant)
-            //    {
-            //        matriz[direita.Linha - 1, direita.Coluna] = true;
-            //    }
-            //}
+            // #jogadaespecial en passant
+            if (Posicao.Linha == 3)
+            {
+                Posicao esquerda = new Posicao(Posicao.Linha, Posicao.Coluna - 1);
+                if (Tabuleiro.PosicaoValida(esquerda) && ExisteInimigo(esquerda) && Tabuleiro.Peca(esquerda) == partida.VulneravelEnPassant)
+                {
+                    matriz[esquerda.Linha - 1, esquerda.Coluna] = true;
+                }
+                Posicao direita = new Posicao(Posicao.Linha, Posicao.Coluna + 1);
+                if (Tabuleiro.PosicaoValida(direita) && ExisteInimigo(direita) && Tabuleiro.Peca(direita) == partida.VulneravelEnPassant)
+                {
+                    matriz[direita.Linha - 1, direita.Coluna] = true;
+                }
+            }
         }
         else
         {
@@ -99,20 +99,20 @@ internal class Peao : Peca
                 matriz[pos.Linha, pos.Coluna] = true;
             }
 
-            //// #jogadaespecial en passant
-            //if (Posicao.Linha == 4)
-            //{
-            //    Posicao esquerda = new Posicao(Posicao.Linha, Posicao.Coluna - 1);
-            //    if (Tabuleiro.PosicaoValida(esquerda) && ExisteInimigo(esquerda) && Tabuleiro.peca(esquerda) == partida.vulneravelEnPassant)
-            //    {
-            //        matriz[esquerda.Linha + 1, esquerda.Coluna] = true;
-            //    }
-            //    Posicao direita = new Posicao(Posicao.Linha, Posicao.Coluna + 1);
-            //    if (Tabuleiro.PosicaoValida(direita) && ExisteInimigo(direita) && Tabuleiro.peca(direita) == partida.vulneravelEnPassant)
-            //    {
-            //        matriz[direita.Linha + 1, direita.Coluna] = true;
-            //    }
-            //}
+            // #jogadaespecial en passant
+            if (Posicao.Linha == 4)
+            {
+                Posicao esquerda = new Posicao(Posicao.Linha, Posicao.Coluna - 1);
+                if (Tabuleiro.PosicaoValida(esquerda) && ExisteInimigo(esquerda) && Tabuleiro.Peca(esquerda) == partida.VulneravelEnPassant)
+                {
+                    matriz[esquerda.Linha + 1, esquerda.Coluna] = true;
+                }
+                Posicao direita = new Posicao(Posicao.Linha, Posicao.Coluna + 1);
+                if (Tabuleiro.PosicaoValida(direita) && ExisteInimigo(direita) && Tabuleiro.Peca(direita) == partida.VulneravelEnPassant)
+                {
+                    matriz[direita.Linha + 1, direita.Coluna] = true;
+                }
+            }
         }
 
         return matriz;
