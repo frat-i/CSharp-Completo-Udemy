@@ -6,13 +6,13 @@ class Program
     {
 
         string sourcepath = @"d:\file1.txt";
-        string targepath = @"d:\file2.txt";
+        string targetpath = @"d:\file2.txt";
 
         try
         {
             string[] lines = File.ReadAllLines(sourcepath);
 
-            using (StreamWriter sw = File.AppendText(targepath))
+            using (StreamWriter sw = File.AppendText(targetpath)) //escrevendo o counteudo do sourcepath no arquivo targetpath
             {
                 foreach (string line in lines)
                 {
