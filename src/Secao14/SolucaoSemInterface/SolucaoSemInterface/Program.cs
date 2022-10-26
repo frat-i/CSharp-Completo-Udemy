@@ -24,7 +24,7 @@ class Program
 
         CarRental carRental = new(start, finish, new Vehicle(model));
 
-        RentalService rentalservice = new(pricePerHour, pricePerDay);
+        RentalService rentalservice = new(pricePerHour, pricePerDay, new BrazilTaxService());
 
         rentalservice.ProcessInvoice(carRental);
 

@@ -7,11 +7,12 @@ internal class RentalService
     public double PricePerHour { get; private set; }
     public double PricePerDay { get; private set; }
 
-    private BrazilTaxService _brazilTaxService = new();
-    public RentalService(double pricePerHour, double pricePerDay)
+    private ITaxService _taxService;
+    public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
     {
         PricePerHour = pricePerHour;
         PricePerDay = pricePerDay;
+        _taxService = taxService;
     }
 
     public void ProcessInvoice(CarRental carRental)
@@ -28,7 +29,7 @@ internal class RentalService
             basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
         }
 
-        double tax = _brazilTaxService.Tax(basicPayment); // calculando a taxa de imposto com oq eu acabei de calcular
+        double tax = _taxService.Tax(basicPayment); // calculando a taxa de imposto com oq eu acabei de calcular
 
         carRental.Invoice = new(basicPayment, tax);
     }
